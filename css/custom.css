@@ -1,10 +1,9 @@
 
 body {
-    font-family: 'Ubuntu', Helvetica, sans-serif;
+	font-family: 'Ubuntu', Helvetica, sans-serif;
     font-weight: 300;
     background-image: url('../images/bg.jpg');
-    background-size: cover;
-    background-attachment: fixed;
+    background-size: cover;    
 
 }
 .main-container {
@@ -45,7 +44,7 @@ body {
 }
 
 .chapter p {
-    font-family: Merriweather, serif;
+	font-family: Merriweather, serif;
     font-weight: 300;
     line-height: 2.4em;
     word-break: break-word;
@@ -87,11 +86,11 @@ h2.title {
 }
 
 .sub-item {
-    margin-left:15px;
+	margin-left:15px;
 }
 
 .list-group-item {
-    background-color: #F7F7F7;
+	background-color: #F7F7F7;
 }
 
 .searchawesome {
